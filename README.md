@@ -1,7 +1,6 @@
 ## Potential Clients in the US
 
-1. Bowery - Vertical farming companby in New Jersey founded by Irving Fain. The only company with a computer vision PhD https://boweryfarming.com/team
-* 
+1. Bowery - Vertical farming companby in New Jersey founded by Irving Fain. The only company with a computer vision PhD https://boweryfarming.com/team 
 2. Square roots - urban farming company in Brooklyn, NY founded by Kimbal Musk
 3. AeroFarms - Vertical farming company in Newark, New Jersey: https://aerofarms.com/team/
 4. ZipGrow - It's a B2B that sells vertical stacks for farming. https://zipgrow.com/pages/zipfarm We can ask them if they need data analysis tools incorporated with their products. 
