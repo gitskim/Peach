@@ -8,7 +8,7 @@
 6. Crop One Holdings - they made a joint venture deal with Emirates Flight Catering and built the world's largest vetical farm in Dubai as of July 2018 http://croponeholdings.com/technology/
 * TODO: read https://www.cnn.com/travel/article/dubai-vertical-farm-emirates-catering/index.html
 7. Plenty - a California-based, Jeff Bezos-backed company: https://www.plenty.ag/press/
-
+8. Alesca Life http://www.alescalife.com/en/home/ CEO Stuart Oda gave a TED talk https://www.youtube.com/watch?v=tfN2Zo1sViI all the management system was built in-house.
 
 ## Potential Clients overseas
 * Interesting read: Vertical farming is difficult in the Netherlands https://www.hortidaily.com/article/6044518/vertical-farming-is-difficult-in-the-netherlands/
