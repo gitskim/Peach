@@ -9,9 +9,12 @@
 * TODO: read https://www.cnn.com/travel/article/dubai-vertical-farm-emirates-catering/index.html
 7. Plenty - a California-based, Jeff Bezos-backed company: https://www.plenty.ag/press/
 8. Alesca Life http://www.alescalife.com/en/home/ CEO Stuart Oda gave a TED talk https://www.youtube.com/watch?v=tfN2Zo1sViI all the management system was built in-house.
-
+9. Teralytic - https://teralytic.com/about.html - soil sensor company 
 ## Potential Clients overseas
 * Interesting read: Vertical farming is difficult in the Netherlands https://www.hortidaily.com/article/6044518/vertical-farming-is-difficult-in-the-netherlands/
 * But first large-scale commercial vertical farm in Europe was set up in the Netherlands: https://www.producegrower.com/article/philips-lighting-vertical-farm-netherlands/
 1. Infarm (https://infarm.com/find-us/) in Germany
 2. StaayFoodGroup recently built vertical farms in the Netherlands to grow produce http://www.staayfoodgroup.com/product
+
+
+. 
